@@ -2,8 +2,12 @@
     #php dio
     $title = 'Da Vincijev kod';
     $link  = 'https://hr.wikipedia.org/Da_Vincijev_kod';
+	
+    $txt1="<p>PHP";
+    $txt2="test 👋</p>";
+    echo $txt1 . " " . $txt2;
     print '
-    <!DOCTYPE HTML> 
+    <!DOCTYPE HTML>
     <html lang="hr">
         <head>
             <meta name="author" content="Ivan Znaor">
@@ -22,5 +26,10 @@ Dana Browna.<br>
         print '</a></p>
     </body>
     </html>';
+	
+	$godinaFilma = 2006;
+	$godinaKnjige = 2003;
+	echo "Godina izlaska filma je $godinaFilma. Godina izdanja knjige: $godinaKnjige";
+	
 #h1 naslov
 ?>
