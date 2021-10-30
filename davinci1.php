@@ -1,5 +1,6 @@
 <?php
     #php dio
+    echo "<img src='https://images-na.ssl-images-amazon.com/images/I/41KuPr7kpZL._SX277_BO1,204,203,200_.jpg' alt='book' />"; 
     $title = 'Da Vincijev kod';
     $link  = 'https://hr.wikipedia.org/Da_Vincijev_kod';
 	
