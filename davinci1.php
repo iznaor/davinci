@@ -30,6 +30,7 @@ Dana Browna.<br>
 	$godinaFilma = 2006;
 	$godinaKnjige = 2003;
 	echo "Godina izlaska filma je $godinaFilma. Godina izdanja knjige: $godinaKnjige";
+	echo '<body style="background-color:#FFFFF0">';
 	
 #h1 naslov
 ?>
